@@ -1,0 +1,23 @@
+h1 {
+    color:blue
+}
+
+.red-title {
+    color:chocolate;
+    font-size: 30px;
+    font-style:italic;
+}
+
+.blue-title {
+    color:blue;
+    font-size: 20;
+    font-style:normal;
+}
+p {
+    color:red;
+    margin: 50px;
+}
+h3 {
+    color:darkgreen;
+    margin: 120px;
+}
