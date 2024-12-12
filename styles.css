@@ -21,3 +21,13 @@ h3 {
     color:darkgreen;
     margin: 120px;
 }
+
+.table1 th, 
+.table1 td {
+    border: 1px solid red;
+}
+
+.table2 th,
+.table2 td  {
+    border: 5px solid green;
+}
